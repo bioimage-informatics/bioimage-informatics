@@ -1,3 +1,3 @@
-## Repository of developed tools for bioimage analyses
+## Repository of developed tools for bioimage informatics
 
 
